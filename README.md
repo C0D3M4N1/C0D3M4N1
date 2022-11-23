@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... How to run a business and code websites.
 - 💞️ I’m looking to collaborate on ... ANYTHING
 - 📫 How to reach me ... Email me at C0D3M4N@mailfence.com
-
+- Please feel free to teach me anything. I want to build a stong network. My future plans are far to great to rest on just a few sholders.
 <!---
 C0D3M4N1/C0D3M4N1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
